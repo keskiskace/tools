@@ -16,9 +16,9 @@ KesKisKace
 **Avis Important : Alertes de Faux Positifs par les Logiciels Antivirus**
 
 Chers Utilisateurs,
-Nous tenons à vous assurer que votre sécurité et l'intégrité de vos systèmes sont nos principales priorités. Si vous recevez des notifications ou des alertes de votre logiciel antivirus concernant notre application, veuillez noter qu'il s'agit de faux positifs.
+Nous tenons à vous assurer que votre sécurité et l'intégrité de vos systèmes sont nos principales priorités. Si vous recevez des notifications ou des alertes de votre logiciel antivirus concernant notre application, veuillez noter qu'il s'agit de faux positifs.  
 Les faux positifs surviennent lorsque les programmes antivirus identifient incorrectement un logiciel légitime comme potentiellement malveillant. Notre application a été minutieusement testée et a été vérifiée comme étant dépourvue de tout composant nocif ou d'intentions malveillantes. Toute notification que vous recevez devrait être considérée comme une fausse alerte.  
-Nous nous engageons à vous offrir une expérience logicielle sûre et fiable. Si vous avez des préoccupations ou des questions concernant les alertes que vous recevez, n'hésitez pas à contacter notre équipe d'assistance. Nous sommes là pour vous aider et vous fournir toutes les informations nécessaires pour que vous puissiez utiliser notre application en toute confiance.
+Nous nous engageons à vous offrir une expérience logicielle sûre et fiable. Si vous avez des préoccupations ou des questions concernant les alertes que vous recevez, n'hésitez pas à contacter notre équipe d'assistance. Nous sommes là pour vous aider et vous fournir toutes les informations nécessaires pour que vous puissiez utiliser notre application en toute confiance.  
 Nous vous remercions pour votre compréhension et pour la confiance que vous continuez d'accorder à notre logiciel.
 
 Cordialement,
