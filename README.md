@@ -11,8 +11,6 @@ Sincerely,
 KesKisKace
 
 
-  
-
 **Avis Important : Alertes de Faux Positifs par les Logiciels Antivirus**
 
 Chers Utilisateurs,
