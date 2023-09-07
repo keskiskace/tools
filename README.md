@@ -23,3 +23,18 @@ Nous vous remercions pour votre compréhension et pour la confiance que vous con
 
 Cordialement,
 KesKisKace
+
+
+txtdoublelinecleaner.exe
+permet d analyser un fichier txt et de supprimer les lignes en double contenues dans ce fichier.
+allows you to analyze a text file and remove duplicate lines contained within the file.
+
+
+comparetxtdoublelinecleaner.exe
+analyse un fichier txt en le comparant avec un ou plusieurs autres fichier txt, puis supprimme dans le 1er fichier les lignes deja presentes dans les fichiers de comparaison.
+Analyze a text file by comparing it with one or more other text files, then remove from the first file the lines that are already present in the comparison files.
+
+
+cleancombo.exe
+analyse un fichier txt et ne conserve que les lignes ou parties de ligne comprenant le modèle mail:pass. 
+Analyze a text file and retain only the lines or parts of lines containing the pattern mail:pass.
